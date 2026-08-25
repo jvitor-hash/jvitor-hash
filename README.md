@@ -14,7 +14,7 @@
 - Eu sou um desenvolvedor de sistemas
 - :telescope: Procuro por novas oportunidas de aprendizado
 - :zap: Em meu tempo livre gosto de aprender sobre novas linguagens e tecnologias também novas ferramentas 
-- :mailbox: Como me contatar: [email](jvitoralt@gmail.com)
+- :mailbox: Como me contatar: jvitoralt@gmail.com
 
 ---
 

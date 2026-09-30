@@ -1,4 +1,4 @@
-!(HelloWorld)[ascii-art-text.png]
+![HelloWorld](ascii-art-text.png)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-991864418/">

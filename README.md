@@ -13,6 +13,8 @@
 - :zap: Em meu tempo livre gosto de aprender sobre novas linguagens e tecnologias também novas ferramentas 
 - :mailbox: Como me contatar: jvitoralt@gmail.com
 
+---
+
 |   | A | B | C | D | E | F | G | H |
 |---|---|---|---|---|---|---|---|---|
 | 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |

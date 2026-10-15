@@ -6,13 +6,6 @@
   </a>
 </div>
 
-### :man_technologist: Sobre mim:
-
-- Eu sou um desenvolvedor de sistemas
-- :telescope: Procuro por novas oportunidas de aprendizado
-- :zap: Em meu tempo livre gosto de aprender sobre novas linguagens e tecnologias também novas ferramentas 
-- :mailbox: Como me contatar: jvitoralt@gmail.com
-
 ---
 
 |   | A | B | C | D | E | F | G | H |
